@@ -41,12 +41,17 @@ Navarasa (नवरस), derived from Sanskrit, refers to the nine fundamental e
 
 ##  Model Performance
 
-| Model | MSE | MAE | PCC | CCC |
-|-------|-----|-----|-----|-----|
-| ABMEN | 0.0090 | 0.0649 | 0.8653 | 0.8509 |
-| MAMF-Net | 0.0338 | 0.1243 | 0.3190 | 0.1644 |
-| IMAN-MAN | 7.2828 | 2.5531 | 0.6354 | 0.0331 |
-| ACMAN | 0.0058 | 0.0460 | 0.9126 | 0.9072 |
+**Models Evaluated:**
+- ABMEN
+- MAMF-Net
+- IMAN-MAN
+- ACMAN
+
+**Evaluation Metrics:**
+- MSE (Mean Squared Error)
+- MAE (Mean Absolute Error)
+- PCC (Pearson Correlation Coefficient)
+- CCC (Concordance Correlation Coefficient)
 
 *Detailed results will be available in the published paper.*
 
