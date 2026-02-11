@@ -1,5 +1,9 @@
 ﻿# Navarasa-Based Multimodal Emotion Recognition
 
+## Authors
+
+**Risa Patil** (Primary Author), Soujanya Poojari, Apoorva Yallapurmath, Anushka Singh, Dr. Chinmayananda A, Dr. Rajashri Khanai, and Salma Shahpurkar
+
 ## Overview
 
 This repository contains the implementation of a novel multimodal emotion recognition system based on the Navarasa framework. The research explores advanced techniques for recognizing emotions across multiple modalities.
@@ -10,19 +14,21 @@ Navarasa (नवरस), derived from Sanskrit, refers to the nine fundamental e
 
 ##  Tools & Technologies Used
 
-**Programming Language:** Python 3
+**Programming Language:** Python 3.12
 
 **Libraries & Frameworks:**
-- TensorFlow/Keras
-- PyTorch
-- Scikit-learn
-- OpenCV
-- Librosa (Audio Processing)
+- PyTorch (Deep Learning Framework)
+- Transformers (BERT for text processing)
+- Whisper (Audio transcription)
+- OpenCV (Video processing)
+- Decord (Video frame extraction)
+- Librosa (Audio feature extraction)
+- Scikit-learn (Machine learning utilities)
 - NumPy, Pandas
 - Matplotlib, Seaborn
 
 **Development Environment:**
-- Kaggle notebook
+- Kaggle Notebook
 
 ##  Model Performance
 
