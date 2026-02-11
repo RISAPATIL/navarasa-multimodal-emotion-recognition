@@ -12,41 +12,29 @@ This repository contains the implementation of a novel multimodal emotion recogn
 
 Navarasa (नवरस), derived from Sanskrit, refers to the nine fundamental emotions in Indian aesthetics. This work leverages this traditional framework to develop a comprehensive multimodal emotion recognition system.
 
-##  Tools & Technologies Used
+##  Tools & Technologies
 
-**Programming Language:** Python 3.12
+**Language:** Python 3.12
 
-**Deep Learning & ML:**
-- PyTorch (Deep Learning Framework)
-- Transformers (HuggingFace - BERT for text processing)
-- Scikit-learn (Model evaluation, train/test split)
-- AdamW Optimizer with Warmup + Cosine Annealing
-
-**Audio Processing:**
-- Whisper (OpenAI - Audio transcription)
-- Librosa (MFCC feature extraction)
-- FFmpeg (Audio extraction from video)
-
-**Video/Image Processing:**
-- OpenCV (Video and image processing)
-- Decord (Efficient video frame extraction)
-
-**Data Processing:**
-- NumPy (Numerical computations)
-- Pandas (Data manipulation)
-- SciPy (Statistical functions)
-- openpyxl (Excel file handling)
-
-**Visualization:**
+**Libraries:**
+- PyTorch
+- Transformers (BERT)
+- Whisper
+- OpenCV
+- Decord
+- Librosa
+- FFmpeg
+- Scikit-learn
+- NumPy
+- Pandas
+- SciPy
 - Matplotlib
 - Seaborn
+- openpyxl
 
-**Development Environment:**
-- Kaggle Notebook with GPU support
+**Environment:** Kaggle Notebook
 
 ##  Model Performance
-
-Preliminary results on benchmark datasets:
 
 | Model | MSE | MAE | PCC | CCC |
 |-------|-----|-----|-----|-----|
@@ -55,7 +43,7 @@ Preliminary results on benchmark datasets:
 | IMAN-MAN | 7.2828 | 2.5531 | 0.6354 | 0.0331 |
 | ACMAN | 0.0058 | 0.0460 | 0.9126 | 0.9072 |
 
-*Note: Detailed results and comparisons will be available in the published paper.*
+*Detailed results will be available in the published paper.*
 
 ## Publication
 
@@ -63,15 +51,13 @@ This research is currently under review for publication. The complete implementa
 
 ## Citation
 
-If you find this work useful, please cite our paper (citation will be updated upon publication):
-
 `
 [Citation pending publication]
 `
 
 ## Contact
 
-For inquiries regarding this research, please contact the authors through the institutional channels provided in the paper.
+For inquiries, please contact the authors through the institutional channels provided in the paper.
 
 ## License
 
@@ -79,4 +65,4 @@ The code and models will be released under an appropriate open-source license fo
 
 ---
 
-*Note: This repository will be updated with the full implementation after the paper is published.*
+*This repository will be updated with the full implementation after the paper is published.*
