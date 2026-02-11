@@ -28,11 +28,12 @@ Navarasa (नवरस), derived from Sanskrit, refers to the nine fundamental e
 
 Preliminary results on benchmark datasets:
 
-| Model | Accuracy | F1-Score |
-|-------|----------|----------|
-| Multimodal Fusion Network | 0.94 | 0.93 |
-| Audio-Visual Model | 0.91 | 0.90 |
-| Text-Audio Model | 0.89 | 0.88 |
+| Model | MSE | MAE | PCC | CCC |
+|-------|-----|-----|-----|-----|
+| ABMEN | 0.0090 | 0.0649 | 0.8653 | 0.8509 |
+| MAMF-Net | 0.0338 | 0.1243 | 0.3190 | 0.1644 |
+| IMAN-MAN | 7.2828 | 2.5531 | 0.6354 | 0.0331 |
+| ACMAN | 0.0058 | 0.0460 | 0.9126 | 0.9072 |
 
 *Note: Detailed results and comparisons will be available in the published paper.*
 
