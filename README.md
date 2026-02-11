@@ -22,8 +22,7 @@ Navarasa (नवरस), derived from Sanskrit, refers to the nine fundamental e
 - Matplotlib, Seaborn
 
 **Development Environment:**
-- Jupyter Notebook
-- Google Colab
+- Kaggle notebook
 
 ##  Model Performance
 
