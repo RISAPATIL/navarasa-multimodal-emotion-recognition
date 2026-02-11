@@ -16,19 +16,33 @@ Navarasa (नवरस), derived from Sanskrit, refers to the nine fundamental e
 
 **Programming Language:** Python 3.12
 
-**Libraries & Frameworks:**
+**Deep Learning & ML:**
 - PyTorch (Deep Learning Framework)
-- Transformers (BERT for text processing)
-- Whisper (Audio transcription)
-- OpenCV (Video processing)
-- Decord (Video frame extraction)
-- Librosa (Audio feature extraction)
-- Scikit-learn (Machine learning utilities)
-- NumPy, Pandas
-- Matplotlib, Seaborn
+- Transformers (HuggingFace - BERT for text processing)
+- Scikit-learn (Model evaluation, train/test split)
+- AdamW Optimizer with Warmup + Cosine Annealing
+
+**Audio Processing:**
+- Whisper (OpenAI - Audio transcription)
+- Librosa (MFCC feature extraction)
+- FFmpeg (Audio extraction from video)
+
+**Video/Image Processing:**
+- OpenCV (Video and image processing)
+- Decord (Efficient video frame extraction)
+
+**Data Processing:**
+- NumPy (Numerical computations)
+- Pandas (Data manipulation)
+- SciPy (Statistical functions)
+- openpyxl (Excel file handling)
+
+**Visualization:**
+- Matplotlib
+- Seaborn
 
 **Development Environment:**
-- Kaggle Notebook
+- Kaggle Notebook with GPU support
 
 ##  Model Performance
 
