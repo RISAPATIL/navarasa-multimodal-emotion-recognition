@@ -4,6 +4,11 @@
 
 **Risa Patil** (Primary Author), Soujanya Poojari, Apoorva Yallapurmath, Anushka Singh, Dr. Chinmayananda A, Dr. Rajashri Khanai, and Salma Shahpurkar
 
+##  Affiliations
+
+- Department of Computer Science and Engineering, KLE Technological University, Belagavi, Karnataka, India
+- Indian Institute of Information Technology (IIIT), Dharwad
+
 ## Overview
 
 This repository contains the implementation of a novel multimodal emotion recognition system based on the Navarasa framework. The research explores advanced techniques for recognizing emotions across multiple modalities.
